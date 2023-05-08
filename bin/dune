@@ -1,0 +1,5 @@
+(executable
+ (public_name pyint)
+ (name main)
+ (libraries python_interpreter pyre-ast sexplib)
+)
